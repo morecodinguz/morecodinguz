@@ -1,4 +1,4 @@
-<h2 align="left">Machine Learning and AI Researcher with expertise in deep learning, bioinformatics, and predictive modeling. Experienced<br>in developing AI-driven models for cancer metastasis prediction, with research published in Current Bioinformatics and<br>submitted to ISMB 2025. Skilled in constructing machine learning and deep learning models, data science.</h2>
+<h4 align="left">Machine Learning and AI Researcher with expertise in deep learning, bioinformatics, and predictive modeling. Experienced<br>in developing AI-driven models for cancer metastasis prediction, with research published in Current Bioinformatics and<br>submitted to ISMB 2025. Skilled in constructing machine learning and deep learning models, data science.</h4>
 
 ###
 
